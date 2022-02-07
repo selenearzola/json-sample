@@ -71,6 +71,90 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+	{
+      "id": 4,
+      "title": "Art show",
+      "date": "March 28 2022",
+      "time": "10:00",
+      "location": "Daytona Park",
+      "description": "let's fun",
+      "organizer": "Adam Jahr",
+      "category": "entertainment",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+	{
+      "id": 5,
+      "title": "Carnival",
+      "date": "March 28 2022",
+      "time": "10:00",
+      "location": "Daytona Park",
+      "description": "let's fun",
+      "organizer": "Adam Jahr",
+      "category": "entertainment",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+	{
+      "id": 6,
+      "title": "Film Festival",
+      "date": "March 28 2022",
+      "time": "10:00",
+      "location": "Daytona Park",
+      "description": "let's fun",
+      "organizer": "Adam Jahr",
+      "category": "entertainment",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
     }
   ]
 }
